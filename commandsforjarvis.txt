@@ -1,0 +1,51 @@
+you can say all of these commands to Jarvis
+
+-Hello, hii, hey
+-how are you
+-what are you doing
+-whats up
+-you are nice
+-what is the time
+-what is the date
+-good morning
+-good night
+-good afternoon and evening ...etc
+-what is my name
+-when is my birthday or birthyear
+-family details
+-who is your creator
+-***when is your birthdate
+-how old are you
+-what is your date or month or year difference
+-------------------------------------
+********common commands**************
+-------------------------------------
+-play music
+-stop music
+-volume up
+-volume down
+-open mycomputer
+-open camera
+-open paint or draw something
+-open word
+-open controlpanel
+-open calculator or math
+-open facebook
+-open browser or surf on web
+-start cmd or command prompt
+-youtube or online videos
+-open application or open app
+-show battery percentage
+-play some games
+----------------------------------------
+************system commands*************
+----------------------------------------
+
+-shutdown
+-restart
+-show desktop
+-hide desktop
+-create a folder
+-delete a folder
+-
+
